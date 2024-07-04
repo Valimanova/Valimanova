@@ -6,7 +6,7 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-www.linkedin.com/in/vusala-alimanova-329333317
+https://www.linkedin.com/search/results/people/?firstName=Vusala&lastName=Alimanova&origin=SEO_PSERP&sid=vbz
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
